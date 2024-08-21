@@ -3,7 +3,6 @@ This project involves the simulation and analysis of a dynamic fast latched comp
 
 __Overview__<br/> 
 Technology: 180nm CMOS process<br/> 
-Tools Used: Cadence Virtuoso, ADS<br/> 
 Clock Frequency: 250 MHz<br/> 
 
 

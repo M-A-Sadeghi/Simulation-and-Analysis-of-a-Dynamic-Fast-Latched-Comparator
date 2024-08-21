@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      root
+HostName                       linux
+ProcessIdentifier              5536
+ProcessCreationTime_UTC        1720893259
+ProcessCreationTime_Readable   Sat Jul 13 13:54:19 2024 EDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/user/ic616/DATA/comparator/comp_main/schematic/sch.oa.cdslck.dirlck
+TimeEditLocked                 Sat Jul 13 13:54:34 2024 EDT
